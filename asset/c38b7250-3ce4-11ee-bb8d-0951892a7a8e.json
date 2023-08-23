@@ -1,0 +1,25 @@
+{
+  "entityType" : "ASSET",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "ASSET",
+      "id" : "c38b7250-3ce4-11ee-bb8d-0951892a7a8e"
+    },
+    "label" : null,
+    "name" : "dsdfsa",
+    "ownerId" : null,
+    "type" : "sdfadsf"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
