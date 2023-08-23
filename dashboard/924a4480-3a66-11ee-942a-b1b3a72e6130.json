@@ -1,0 +1,31 @@
+{
+  "entityType" : "DASHBOARD",
+  "entity" : {
+    "assignedCustomers" : null,
+    "configuration" : {
+      "description" : ""
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "3414e9b0-2eb8-11ee-b27f-c93f40f7349e"
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "DASHBOARD",
+      "id" : "924a4480-3a66-11ee-942a-b1b3a72e6130"
+    },
+    "image" : null,
+    "mobileHide" : false,
+    "mobileOrder" : null,
+    "name" : "C1",
+    "ownerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "3414e9b0-2eb8-11ee-b27f-c93f40f7349e"
+    },
+    "title" : "C1"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

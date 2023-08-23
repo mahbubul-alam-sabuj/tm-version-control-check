@@ -4,7 +4,10 @@
     "additionalInfo" : null,
     "configuration" : null,
     "debugMode" : false,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "RULE_CHAIN",
+      "id" : "0b87e6a0-2eb8-11ee-b27f-c93f40f7349e"
+    },
     "firstRuleNodeId" : {
       "entityType" : "RULE_NODE",
       "id" : "0b88d105-2eb8-11ee-b27f-c93f40f7349e"
