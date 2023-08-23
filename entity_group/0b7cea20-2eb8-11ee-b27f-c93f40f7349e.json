@@ -1,0 +1,63 @@
+{
+  "entityType" : "ENTITY_GROUP",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : null,
+      "isPublic" : null,
+      "publicCustomerId" : null
+    },
+    "configuration" : {
+      "columns" : [ {
+        "type" : "ENTITY_FIELD",
+        "key" : "created_time",
+        "title" : null,
+        "sortOrder" : "NONE",
+        "mobileHide" : null
+      }, {
+        "type" : "ENTITY_FIELD",
+        "key" : "name",
+        "title" : null,
+        "sortOrder" : "NONE",
+        "mobileHide" : null
+      } ],
+      "settings" : {
+        "groupTableTitle" : "",
+        "enableSearch" : true,
+        "enableAdd" : true,
+        "enableDelete" : true,
+        "enableSelection" : true,
+        "enableGroupTransfer" : true,
+        "displayPagination" : true,
+        "detailsMode" : "onRowClick",
+        "defaultPageSize" : 10,
+        "enableCredentialsManagement" : true,
+        "enableLoginAsUser" : true,
+        "enableUsersManagement" : true,
+        "enableCustomersManagement" : true,
+        "enableAssetsManagement" : true,
+        "enableDevicesManagement" : true,
+        "enableEntityViewsManagement" : true,
+        "enableEdgesManagement" : true,
+        "enableDashboardsManagement" : true,
+        "enableSchedulerEventsManagement" : true
+      },
+      "actions" : { }
+    },
+    "edgeGroupAll" : false,
+    "externalId" : null,
+    "groupAll" : true,
+    "id" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "0b7cea20-2eb8-11ee-b27f-c93f40f7349e"
+    },
+    "name" : "All",
+    "ownerId" : {
+      "entityType" : "TENANT",
+      "id" : "0b79b5d0-2eb8-11ee-b27f-c93f40f7349e"
+    },
+    "type" : "ASSET"
+  },
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
