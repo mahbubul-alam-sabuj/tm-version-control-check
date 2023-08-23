@@ -1,0 +1,68 @@
+{
+  "entityType" : "ENTITY_GROUP",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : null,
+      "isPublic" : null,
+      "publicCustomerId" : null
+    },
+    "configuration" : {
+      "columns" : [ {
+        "type" : "ENTITY_FIELD",
+        "key" : "created_time",
+        "sortOrder" : "DESC"
+      }, {
+        "type" : "ENTITY_FIELD",
+        "key" : "first_name",
+        "sortOrder" : "NONE"
+      }, {
+        "type" : "ENTITY_FIELD",
+        "key" : "last_name",
+        "sortOrder" : "NONE"
+      }, {
+        "type" : "ENTITY_FIELD",
+        "key" : "email",
+        "sortOrder" : "NONE"
+      } ],
+      "settings" : {
+        "groupTableTitle" : "",
+        "enableSearch" : true,
+        "enableAdd" : true,
+        "enableDelete" : true,
+        "enableSelection" : true,
+        "enableGroupTransfer" : true,
+        "displayPagination" : true,
+        "detailsMode" : "onDetailsButtonClick",
+        "defaultPageSize" : 20,
+        "enableCredentialsManagement" : true,
+        "enableLoginAsUser" : true,
+        "enableUsersManagement" : true,
+        "enableCustomersManagement" : true,
+        "enableAssetsManagement" : true,
+        "enableDevicesManagement" : true,
+        "enableEntityViewsManagement" : true,
+        "enableEdgesManagement" : true,
+        "enableDashboardsManagement" : true,
+        "enableSchedulerEventsManagement" : true
+      },
+      "actions" : { }
+    },
+    "edgeGroupAll" : false,
+    "externalId" : null,
+    "groupAll" : true,
+    "id" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "0b7e97d0-2eb8-11ee-b27f-c93f40f7349e"
+    },
+    "name" : "All",
+    "ownerId" : {
+      "entityType" : "TENANT",
+      "id" : "0b79b5d0-2eb8-11ee-b27f-c93f40f7349e"
+    },
+    "type" : "USER"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
