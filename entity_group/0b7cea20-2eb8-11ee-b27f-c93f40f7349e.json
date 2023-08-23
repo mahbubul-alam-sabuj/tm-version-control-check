@@ -59,6 +59,14 @@
   },
   "relations" : [ ],
   "attributes" : {
-    "SERVER_SCOPE" : [ ]
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "TEST",
+      "lastUpdateTs" : 1692772574341,
+      "longValue" : null,
+      "strValue" : "sdfdsaf"
+    } ]
   }
 }
