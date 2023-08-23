@@ -1,0 +1,94 @@
+{
+  "entityType" : "ENTITY_GROUP",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : null,
+      "isPublic" : null,
+      "publicCustomerId" : null
+    },
+    "configuration" : {
+      "columns" : [ {
+        "type" : "ENTITY_FIELD",
+        "key" : "created_time",
+        "title" : null,
+        "sortOrder" : "DESC",
+        "mobileHide" : null
+      }, {
+        "type" : "ENTITY_FIELD",
+        "key" : "name",
+        "title" : null,
+        "sortOrder" : "NONE",
+        "mobileHide" : null
+      }, {
+        "type" : "ENTITY_FIELD",
+        "key" : "device_profile",
+        "title" : null,
+        "sortOrder" : "NONE",
+        "mobileHide" : null
+      }, {
+        "type" : "ENTITY_FIELD",
+        "key" : "label",
+        "title" : null,
+        "sortOrder" : "NONE",
+        "mobileHide" : null
+      }, {
+        "type" : "ENTITY_FIELD",
+        "key" : "name",
+        "title" : null,
+        "sortOrder" : "NONE",
+        "mobileHide" : null
+      } ],
+      "settings" : {
+        "groupTableTitle" : "",
+        "enableSearch" : true,
+        "enableAdd" : true,
+        "enableDelete" : true,
+        "enableSelection" : true,
+        "enableGroupTransfer" : true,
+        "displayPagination" : true,
+        "detailsMode" : "onDetailsButtonClick",
+        "defaultPageSize" : 12,
+        "enableCredentialsManagement" : true,
+        "enableLoginAsUser" : true,
+        "enableUsersManagement" : true,
+        "enableCustomersManagement" : true,
+        "enableAssetsManagement" : true,
+        "enableDevicesManagement" : true,
+        "enableEntityViewsManagement" : true,
+        "enableEdgesManagement" : true,
+        "enableDashboardsManagement" : true,
+        "enableSchedulerEventsManagement" : true
+      },
+      "actions" : {
+        "rowClick" : [ {
+          "name" : "fdsa",
+          "icon" : "more_horiz",
+          "useShowWidgetActionFunction" : null,
+          "showWidgetActionFunction" : "return true;",
+          "type" : "custom",
+          "customFunction" : null,
+          "openInSeparateDialog" : false,
+          "openInPopover" : false,
+          "id" : "889c6b2b-4762-26c9-2b08-7abaa67340e1"
+        } ]
+      }
+    },
+    "edgeGroupAll" : false,
+    "externalId" : null,
+    "groupAll" : false,
+    "id" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "cd9f14f0-3a9f-11ee-9596-55497d3ae1ea"
+    },
+    "name" : "Tenant's Devices",
+    "ownerId" : {
+      "entityType" : "TENANT",
+      "id" : "0b79b5d0-2eb8-11ee-b27f-c93f40f7349e"
+    },
+    "type" : "DEVICE"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
