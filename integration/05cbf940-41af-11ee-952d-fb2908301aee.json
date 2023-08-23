@@ -1,0 +1,63 @@
+{
+  "entityType" : "INTEGRATION",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "allowCreateDevicesOrAssets" : false,
+    "configuration" : {
+      "baseUrl" : "http://dev.tesenso.io:4200",
+      "replaceNoContentToOk" : false,
+      "enableSecurity" : false,
+      "headersFilter" : { },
+      "httpEndpoint" : "http://dev.tesenso.io:4200/api/v1/integrations/http/ca66b7c4-3e80-1e0f-f9e2-90e7a3c29679",
+      "metadata" : {
+        "content-type" : "sample"
+      },
+      "clientConfiguration" : {
+        "cleanSession" : false,
+        "clientId" : "",
+        "connectTimeoutSec" : 10,
+        "host" : "",
+        "maxBytesInMessage" : 32368,
+        "port" : 8884,
+        "ssl" : false,
+        "credentials" : {
+          "caCert" : "",
+          "caCertFileName" : "",
+          "cert" : "",
+          "certFileName" : "",
+          "privateKey" : "",
+          "privateKeyFileName" : "",
+          "privateKeyPassword" : "",
+          "password" : "",
+          "username" : "",
+          "type" : "anonymous"
+        }
+      },
+      "downlinkTopicPattern" : "${topic}",
+      "topicFilters" : [ ]
+    },
+    "debugMode" : false,
+    "defaultConverterId" : {
+      "entityType" : "CONVERTER",
+      "id" : "6dfbd680-41ae-11ee-952d-fb2908301aee"
+    },
+    "downlinkConverterId" : null,
+    "edgeTemplate" : false,
+    "enabled" : false,
+    "externalId" : null,
+    "id" : {
+      "entityType" : "INTEGRATION",
+      "id" : "05cbf940-41af-11ee-952d-fb2908301aee"
+    },
+    "name" : "safdsfdasfas",
+    "remote" : false,
+    "routingKey" : "ca66b7c4-3e80-1e0f-f9e2-90e7a3c29679",
+    "secret" : "267b5f2f-76b5-f9f5-f69f-a19b6dce89d4",
+    "type" : "HTTP"
+  },
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
