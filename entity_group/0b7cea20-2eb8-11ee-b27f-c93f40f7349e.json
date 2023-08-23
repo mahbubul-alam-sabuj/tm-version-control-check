@@ -57,6 +57,7 @@
     },
     "type" : "ASSET"
   },
+  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ ]
   }
