@@ -61,8 +61,15 @@
     },
     "type" : "USER"
   },
-  "relations" : [ ],
   "attributes" : {
-    "SERVER_SCOPE" : [ ]
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "fdsafdsa",
+      "lastUpdateTs" : 1692786922948,
+      "longValue" : null,
+      "strValue" : "dfdsafds"
+    } ]
   }
 }
