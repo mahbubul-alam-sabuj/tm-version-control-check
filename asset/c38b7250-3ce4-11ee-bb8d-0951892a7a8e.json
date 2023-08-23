@@ -1,0 +1,36 @@
+{
+  "entityType" : "ASSET",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "externalId" : {
+      "entityType" : "ASSET",
+      "id" : "c38b7250-3ce4-11ee-bb8d-0951892a7a8e"
+    },
+    "id" : {
+      "entityType" : "ASSET",
+      "id" : "c38b7250-3ce4-11ee-bb8d-0951892a7a8e"
+    },
+    "label" : null,
+    "name" : "dsdfsa",
+    "ownerId" : null,
+    "type" : "sdfadsf"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "TEST",
+      "lastUpdateTs" : 1692774024989,
+      "longValue" : null,
+      "strValue" : "sfs"
+    } ]
+  }
+}
