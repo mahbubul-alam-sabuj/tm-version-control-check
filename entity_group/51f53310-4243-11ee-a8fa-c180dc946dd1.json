@@ -1,0 +1,37 @@
+{
+  "entityType" : "ENTITY_GROUP",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : null
+    },
+    "configuration" : {
+      "columns" : [ {
+        "type" : "ENTITY_FIELD",
+        "key" : "created_time",
+        "sortOrder" : "DESC"
+      }, {
+        "type" : "ENTITY_FIELD",
+        "key" : "title",
+        "sortOrder" : "NONE"
+      } ],
+      "settings" : { },
+      "actions" : { }
+    },
+    "edgeGroupAll" : false,
+    "externalId" : null,
+    "groupAll" : false,
+    "id" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "51f53310-4243-11ee-a8fa-c180dc946dd1"
+    },
+    "name" : "Dashboard Group 1",
+    "ownerId" : {
+      "entityType" : "TENANT",
+      "id" : "0b79b5d0-2eb8-11ee-b27f-c93f40f7349e"
+    },
+    "type" : "DASHBOARD"
+  },
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
