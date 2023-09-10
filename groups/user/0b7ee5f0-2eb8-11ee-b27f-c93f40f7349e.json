@@ -44,5 +44,6 @@
   "attributes" : {
     "SERVER_SCOPE" : [ ]
   },
-  "groupEntities" : false
+  "groupEntities" : false,
+  "permissions" : [ ]
 }
