@@ -3,6 +3,7 @@
   "entity" : {
     "additionalInfo" : null,
     "configuration" : null,
+    "createdTime" : 1690707849738,
     "debugMode" : false,
     "externalId" : {
       "entityType" : "RULE_CHAIN",
@@ -18,6 +19,7 @@
     },
     "name" : "Root Rule Chain",
     "root" : true,
+    "tenantId" : null,
     "type" : "CORE"
   },
   "metaData" : {
